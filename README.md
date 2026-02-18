@@ -1,3 +1,3 @@
 Dzień dobry,
 
-W tym repozytorium znajduje sie pare ciekawszych stworzonych przezemnie projektów. Liczę że zostaną one przez Państwa przejżane, oraz pozwolą na lepsze ocenienie moich umiejętności.
+Jest to mój ostatni projekt. Służy on do sprawdzania pomiarów z czujników na ogródku oraz automatycznego nawadniania. Jest on w fazie testowania.
