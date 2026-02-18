@@ -1,4 +1,4 @@
-# AutoFarm Prototype (Raspberry Pi Pico 2W)
+# Prototyp automatycznej farmy (Raspberry Pi Pico 2W)
 
 Prototyp inteligentnego sterownika nawadniania oparty na mikrokontrolerze Raspberry Pi Pico 2W.
 System monitoruje parametry (wilgotność gleby, temperaturę, opady, nasłonecznienie) i automatycznie steruje pompą wody. Udostępnia również prosty interfejs HTTP do podglądu parametrów na żywo.
